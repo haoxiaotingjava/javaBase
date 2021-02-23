@@ -7,3 +7,6 @@
 	git checkout branchName
 3、删除分支
 	git branch -d branchName
+4、合并分支
+	git merge branchName
+	
