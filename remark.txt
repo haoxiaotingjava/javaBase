@@ -3,3 +3,7 @@
 
 1、创建分支
 	git branch branchName
+2、切换分支
+	git checkout branchName
+3、删除分支
+	git branch -d branchName
