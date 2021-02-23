@@ -1,2 +1,5 @@
 2021-02-22
 今天开始学习分支管理
+
+1、创建分支
+	git branch branchName
