@@ -10,3 +10,4 @@
 4、合并分支
 	git merge branchName
 	
+在dev分支上进行开发
